@@ -47,6 +47,7 @@ The project is structured for maintainability and scalability:
 ## Schema
 
 The application's functioning is illustrated in the schema: `Schema_COT-REFLECT.png`.
+![COTREFLECT](Schema_COT-REFLECT.png)
 
 ## Contributing
 
